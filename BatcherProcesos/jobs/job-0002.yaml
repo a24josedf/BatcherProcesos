@@ -1,0 +1,8 @@
+id: job-0002
+name: "Generar estadisticas"
+priority: 1
+resources:
+  cpu_cores: 2
+  memory: "512 MB"
+workload:
+  duration_ms: 8000

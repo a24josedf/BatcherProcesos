@@ -1,0 +1,11 @@
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\com\mycompany\batcherprocesos\BatcherProcesos.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\model\Job.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\model\JobState.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\model\READYList.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\model\RUNNINGList.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\model\SchedulerPolicy.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\model\WAITINGList.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\service\Batcher.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\service\RunningJob.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\service\YAMLReader.java
+C:\Users\carlo\Downloads\BatcherProcesos\src\main\java\worker\WorkerMain.java

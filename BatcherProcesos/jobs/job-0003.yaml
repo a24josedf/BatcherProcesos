@@ -1,0 +1,8 @@
+id: job-0003
+name: "Simular matriz"
+priority: 3
+resources:
+  cpu_cores: 1
+  memory: "1 GB"
+workload:
+  duration_ms: 7000

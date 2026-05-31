@@ -1,0 +1,8 @@
+id: job-0004
+name: "Comprimir resultados"
+priority: 0
+resources:
+  cpu_cores: 1
+  memory: "256 MB"
+workload:
+  duration_ms: 4000
